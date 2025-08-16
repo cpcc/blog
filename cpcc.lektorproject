@@ -1,0 +1,5 @@
+[project]
+name = cpcc
+
+[servers.ghpages]
+target = ghpages+https://github.com/cpcc/blog
